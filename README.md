@@ -32,6 +32,6 @@ Discord sunucunuz için gelişmiş DM duyuru ve yönetim botu.
 ## Not
 İyi Kullanımlar dilerim :)
 
-
+## Bot Yapımcısı
 Bot Yapımcısı | .vodqa
 İletişim için; Discord Adresi | .vodqa
