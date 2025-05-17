@@ -1,0 +1,9 @@
+{
+  "token": "BOT-TOKEN",
+  "prefix": ".",
+  "admins": [
+    "ADMİN-KULLANICI İDLERİ"
+  ],
+  "logChannel": "LOG-KANAL-İD",
+  "owner": "KULLANICI-ADINIZI-GİRİN"
+}
